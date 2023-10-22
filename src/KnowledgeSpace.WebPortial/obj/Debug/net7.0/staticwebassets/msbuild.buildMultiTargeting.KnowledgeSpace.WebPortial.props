@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KnowledgeSpace.WebPortial.props" />
+</Project>

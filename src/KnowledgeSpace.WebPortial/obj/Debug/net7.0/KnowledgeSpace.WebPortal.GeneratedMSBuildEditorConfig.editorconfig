@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KnowledgeSpace.WebPortal
+build_property.RootNamespace = KnowledgeSpace.WebPortal
+build_property.ProjectDir = D:\KN\ASP.NET core\project\knowledge - space\KnowledgeSpace\src\KnowledgeSpace.WebPortial\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\KN\ASP.NET core\project\knowledge - space\KnowledgeSpace\src\KnowledgeSpace.WebPortial
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Account/CreateNewKnowledgeBase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGVOZXdLbm93bGVkZ2VCYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Account/EditKnowledgeBase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0S25vd2xlZGdlQmFzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Account/MyKnowledgeBases.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxNeUtub3dsZWRnZUJhc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Account/MyProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxNeVByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/KnowledgeBase/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS25vd2xlZGdlQmFzZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/KnowledgeBase/ListByCategoryId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS25vd2xlZGdlQmFzZVxMaXN0QnlDYXRlZ29yeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/KnowledgeBase/ListByTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS25vd2xlZGdlQmFzZVxMaXN0QnlUYWcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/KnowledgeBase/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS25vd2xlZGdlQmFzZVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/Components/Footer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/Components/NavBar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2QmFyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/Components/Pager/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGFnZXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/Components/SideBar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2lkZUJhclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/_SearchBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/_SubLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdWJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KN/ASP.NET core/project/knowledge - space/KnowledgeSpace/src/KnowledgeSpace.WebPortial/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1z7vw527el

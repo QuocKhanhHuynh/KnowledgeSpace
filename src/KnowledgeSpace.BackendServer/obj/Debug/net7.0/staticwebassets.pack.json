@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\user-attachments\\Ảnh chụp màn hình 2023-08-25 230050.png",
+      "PackagePath": "staticwebassets\\user-attachments\\Ảnh chụp màn hình 2023-08-25 230050.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\user-attachments\\Ảnh chụp màn hình 2023-09-28 210112.png",
+      "PackagePath": "staticwebassets\\user-attachments\\Ảnh chụp màn hình 2023-09-28 210112.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\user-attachments\\Ảnh chụp màn hình 2023-09-28 211326.png",
+      "PackagePath": "staticwebassets\\user-attachments\\Ảnh chụp màn hình 2023-09-28 211326.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\user-attachments\\Ảnh chụp màn hình 2023-10-04 100842.png",
+      "PackagePath": "staticwebassets\\user-attachments\\Ảnh chụp màn hình 2023-10-04 100842.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.BackendServer\\wwwroot\\user-attachments\\Ảnh chụp màn hình 2023-10-04 100937.png",
+      "PackagePath": "staticwebassets\\user-attachments\\Ảnh chụp màn hình 2023-10-04 100937.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.KnowledgeSpace.BackendServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.KnowledgeSpace.BackendServer.props",
+      "PackagePath": "build\\KnowledgeSpace.BackendServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.KnowledgeSpace.BackendServer.props",
+      "PackagePath": "buildMultiTargeting\\KnowledgeSpace.BackendServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.KnowledgeSpace.BackendServer.props",
+      "PackagePath": "buildTransitive\\KnowledgeSpace.BackendServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

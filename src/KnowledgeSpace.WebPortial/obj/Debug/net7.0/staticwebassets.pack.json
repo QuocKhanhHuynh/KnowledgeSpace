@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KnowledgeSpace.WebPortal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KnowledgeSpace.WebPortal.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin.css",
+      "PackagePath": "staticwebassets\\css\\blue-skin.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\blue-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\blue-bg.jpg"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\devine-art.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\devine-art.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\facebook.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\facebook.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\flickr.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\flickr.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\footer-bg.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\google.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\google.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\linked-in.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\linked-in.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\rss.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\rss.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\skype.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\skype.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\stumble.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\stumble.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\blue-skin\\twitter.png",
+      "PackagePath": "staticwebassets\\css\\blue-skin\\twitter.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin.css",
+      "PackagePath": "staticwebassets\\css\\green-skin.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\devine-art.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\devine-art.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\facebook.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\facebook.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\faq-minus.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\faq-minus.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\faq-plus.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\faq-plus.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\flickr.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\flickr.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\footer-bg.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\google.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\google.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\green-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\green-skin\\green-bg.jpg"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\linked-in.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\linked-in.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\plus-minus.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\plus-minus.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\rss.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\rss.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\skype.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\skype.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\stumble.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\stumble.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\green-skin\\twitter.png",
+      "PackagePath": "staticwebassets\\css\\green-skin\\twitter.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin.css",
+      "PackagePath": "staticwebassets\\css\\red-skin.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\devine-art.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\devine-art.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\facebook.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\facebook.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\faq-minus.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\faq-minus.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\faq-plus.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\faq-plus.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\flickr.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\flickr.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\footer-bg.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\google.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\google.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\linked-in.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\linked-in.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\plus-minus.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\plus-minus.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\red-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\red-skin\\red-bg.jpg"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\rss.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\rss.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\skype.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\skype.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\stumble.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\stumble.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\red-skin\\twitter.png",
+      "PackagePath": "staticwebassets\\css\\red-skin\\twitter.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\calendar-icon.png",
+      "PackagePath": "staticwebassets\\images\\calendar-icon.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\category-icon.png",
+      "PackagePath": "staticwebassets\\images\\category-icon.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\category-main-icon.png",
+      "PackagePath": "staticwebassets\\images\\category-main-icon.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\comment.png",
+      "PackagePath": "staticwebassets\\images\\comment.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\devine-art.png",
+      "PackagePath": "staticwebassets\\images\\devine-art.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\faq-minus.png",
+      "PackagePath": "staticwebassets\\images\\faq-minus.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\faq-plus.png",
+      "PackagePath": "staticwebassets\\images\\faq-plus.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\faq.png",
+      "PackagePath": "staticwebassets\\images\\faq.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\flickr.png",
+      "PackagePath": "staticwebassets\\images\\flickr.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\footer-bg.png",
+      "PackagePath": "staticwebassets\\images\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\glyphicons-halflings-white.png",
+      "PackagePath": "staticwebassets\\images\\glyphicons-halflings-white.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\glyphicons-halflings.png",
+      "PackagePath": "staticwebassets\\images\\glyphicons-halflings.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\google.png",
+      "PackagePath": "staticwebassets\\images\\google.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\image-large.png",
+      "PackagePath": "staticwebassets\\images\\image-large.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\image.png",
+      "PackagePath": "staticwebassets\\images\\image.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\li-arrow.png",
+      "PackagePath": "staticwebassets\\images\\li-arrow.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\like-btn.png",
+      "PackagePath": "staticwebassets\\images\\like-btn.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\like.png",
+      "PackagePath": "staticwebassets\\images\\like.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\linked-in.png",
+      "PackagePath": "staticwebassets\\images\\linked-in.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\main-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\main-bg.jpg"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\no-avatar.png",
+      "PackagePath": "staticwebassets\\images\\no-avatar.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\plus-minus.png",
+      "PackagePath": "staticwebassets\\images\\plus-minus.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\question-large.png",
+      "PackagePath": "staticwebassets\\images\\question-large.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\question.png",
+      "PackagePath": "staticwebassets\\images\\question.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\rss.png",
+      "PackagePath": "staticwebassets\\images\\rss.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\scroll-top.png",
+      "PackagePath": "staticwebassets\\images\\scroll-top.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\search-loader.gif",
+      "PackagePath": "staticwebassets\\images\\search-loader.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\skype.png",
+      "PackagePath": "staticwebassets\\images\\skype.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\standard-large.png",
+      "PackagePath": "staticwebassets\\images\\standard-large.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\standard.png",
+      "PackagePath": "staticwebassets\\images\\standard.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\stumble.png",
+      "PackagePath": "staticwebassets\\images\\stumble.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\support.png",
+      "PackagePath": "staticwebassets\\images\\support.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\temp\\living-room-770x501.jpg",
+      "PackagePath": "staticwebassets\\images\\temp\\living-room-770x501.jpg"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\temp\\man.png",
+      "PackagePath": "staticwebassets\\images\\temp\\man.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\user.png",
+      "PackagePath": "staticwebassets\\images\\user.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\video-large.png",
+      "PackagePath": "staticwebassets\\images\\video-large.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\images\\video.png",
+      "PackagePath": "staticwebassets\\images\\video.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\controllers\\accountController.js",
+      "PackagePath": "staticwebassets\\js\\controllers\\accountController.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\controllers\\knowledgeBaseController.js",
+      "PackagePath": "staticwebassets\\js\\controllers\\knowledgeBaseController.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\html5.js",
+      "PackagePath": "staticwebassets\\js\\html5.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\jflickrfeed.js",
+      "PackagePath": "staticwebassets\\js\\jflickrfeed.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\jquery-1.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.8.3.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\jquery-twitterFetcher.js",
+      "PackagePath": "staticwebassets\\js\\jquery-twitterFetcher.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\jquery.liveSearch.js",
+      "PackagePath": "staticwebassets\\js\\jquery.liveSearch.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\btnNext.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\btnNext.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\loader.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\sprite.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light-square\\sprite.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\images\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\prettyphoto\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\js\\prettyphoto\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\KN\\ASP.NET core\\project\\knowledge - space\\KnowledgeSpace\\src\\KnowledgeSpace.WebPortial\\wwwroot\\lib\\twitter-bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.KnowledgeSpace.WebPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.KnowledgeSpace.WebPortal.props",
+      "PackagePath": "build\\KnowledgeSpace.WebPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.KnowledgeSpace.WebPortal.props",
+      "PackagePath": "buildMultiTargeting\\KnowledgeSpace.WebPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.KnowledgeSpace.WebPortal.props",
+      "PackagePath": "buildTransitive\\KnowledgeSpace.WebPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
